@@ -18,5 +18,6 @@ public class AppTest
         System.out.println("git测试01");
         System.out.println("git测试01");
         System.out.println("git测试01");
+        System.out.println("git测试01");
     }
 }
