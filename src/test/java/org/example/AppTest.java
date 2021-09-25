@@ -16,5 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("git测试01");
+        System.out.println("git测试01");
     }
 }
