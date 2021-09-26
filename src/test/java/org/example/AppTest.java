@@ -22,5 +22,6 @@ public class AppTest
         System.out.println("git测试06");
         System.out.println("git测试0666");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
